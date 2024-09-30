@@ -8,4 +8,5 @@ nacos/nacos-server:v2.3.2
 prom/prometheus:latest
 grafana/grafana:latest
 mysql:8.0
+jenkins/jenkins
 
