@@ -9,4 +9,4 @@ prom/prometheus:latest
 grafana/grafana:latest
 mysql:8.0
 jenkins/jenkins
-jpom
+jpom-server
