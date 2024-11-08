@@ -9,5 +9,5 @@ prom/prometheus:latest
 grafana/grafana:latest
 mysql:8.0
 jenkins/jenkins
-jpom-server
+#jpom-server
 seataio/seata-server:latest
