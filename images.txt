@@ -10,4 +10,4 @@ grafana/grafana:latest
 mysql:8.0
 jenkins/jenkins
 jpom-server
-seataio/seata-server:1.6
+seataio/seata-server:latest
