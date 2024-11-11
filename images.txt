@@ -7,7 +7,7 @@ xhofe/alist:latest
 nacos/nacos-server:v2.3.2
 prom/prometheus:latest
 grafana/grafana:latest
-mysql:8.0
+mysql:8.4.3
 jenkins/jenkins
 #jpom-server
 seataio/seata-server:latest
