@@ -11,3 +11,4 @@ mysql:8.4.3
 jenkins/jenkins
 #jpom-server
 seataio/seata-server:latest
+bitnami/postgresql
