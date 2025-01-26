@@ -12,3 +12,4 @@ jenkins/jenkins
 #jpom-server
 seataio/seata-server:latest
 bitnami/postgresql
+pgvector/pgvector:pg17
