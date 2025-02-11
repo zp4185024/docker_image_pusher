@@ -13,4 +13,4 @@ jenkins/jenkins
 seataio/seata-server:latest
 bitnami/postgresql
 pgvector/pgvector:pg17
-1panel/maxkb
+1panel/maxkb 
