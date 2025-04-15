@@ -14,4 +14,3 @@ seataio/seata-server:latest
 bitnami/postgresql
 pgvector/pgvector:pg17
 1panel/maxkb
-eclipse-temurin:17-jre
