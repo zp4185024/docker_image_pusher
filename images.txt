@@ -14,4 +14,4 @@ seataio/seata-server:latest
 bitnami/postgresql
 pgvector/pgvector:pg17
 1panel/maxkb 
-dpanel/dpanel:lite 
+registry.cn-hangzhou.aliyuncs.com/dpanel/dpanel:latest
