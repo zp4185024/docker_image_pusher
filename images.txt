@@ -15,4 +15,4 @@ bitnami/postgresql
 pgvector/pgvector:pg17
 1panel/maxkb
 dpanel/dpanel
-docker pull rabbir/datax-web:latest
+rabbir/datax-web:latest
